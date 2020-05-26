@@ -2,8 +2,8 @@
 ## 1.use various language to process some datas in some files to improve efficiency
   Select specific columns of data in "fp" file into "fvp" file;
   Copy dat in "vp" file into "fvp" file;  
-  <img src="https://github.com/JaneLin-0409/SimpleDataProcessing/FpVp.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
-  <img src="https://github.com/JaneLin-0409/SimpleDataProcessing/ProblemVp.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+  <img src="IMG/FpVp.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+  <img src="https://github.com/JaneLin-0409/SimpleDataProcessing/IMG/ProblemVp.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
     
   *readDatAndWrite.cpp:*
   ### 1-1: There are two kinds of files, fp and vp, whose names are interlinked at the end, in this case, 500.
